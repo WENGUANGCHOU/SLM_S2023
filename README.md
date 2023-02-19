@@ -9,13 +9,38 @@ To run the code provided during classes you'll need:
 * [Git](https://git-scm.com/)
 
 ---
+***Preparing working environment**
+
+Make sure you have [Julia](https://julialang.org/downloads/) installed.
+The course was prepared under Julia 1.8.2.
+
+1. Clone the repository to a local folder on your computer:
+```shell
+git clone https://github.com/KrainskiL/SLM_S2023.git
+```
+2. Start Julia in your local folder:
+```shell
+cd SLM_S2023
+julia --project
+```
+3. Run the following commands in the Julia REPL:
+```julia
+using Pkg
+Pkg.instantiate()
+Pkg.status()
+```
+4. Start Jupyter Notebook with:
+```julia
+using IJulia
+notebook(dir=pwd())
+```
+
+---
 **Contact**
 
 Name: Łukasz Kraiński
 
 Email: lkrain@sgh.waw.pl
-
-You can contact me through MS Teams as well.
 
 ---
 **Lecturers**
@@ -66,7 +91,7 @@ You can contact me through MS Teams as well.
 
 Materials shared during the class
 
-Kamiński  B.(2022),  [Julia  forData Analysis](https://www.manning.com/books/julia-for-data-analysis)
+Kamiński  B.(2022),  [Julia  for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)
 
 Mykel  J.  Kochenderfer,  Tim  A.  Wheeler,  And  Kyle  H.  Wray  (2022),  [Algorithms  for  Decision Making](https://algorithmsbook.com/)
 
@@ -82,9 +107,9 @@ Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learn
 * Theoretical examination on last lecture (50 points)
 * Practical test on last laboratory (50 points)
 * Extra points:
- * Homework
- * Laboratory competition
- * Completion of course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points)
+    * Homework
+    * Laboratory competition
+    * Completion of course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points)
 
 
 ---
@@ -97,3 +122,9 @@ Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learn
 |70 |79 |4.0|
 |80 |89 |4.5|
 |90 |100 |5.0|
+
+---
+
+*Preparation of the educational materials has been supported by the Polish National Agency for Academic Exchange under the Strategic Partnerships programme, grant number BPI/PST/2021/1/00069/U/00001.*
+
+![SGH & NAWA](logo.png)
