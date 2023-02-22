@@ -9,7 +9,7 @@ To run the code provided during classes you'll need:
 * [Git](https://git-scm.com/)
 
 ---
-***Preparing working environment**
+**Preparing working environment**
 
 Make sure you have [Julia](https://julialang.org/downloads/) installed.
 The course was prepared under Julia 1.8.2.
@@ -42,6 +42,8 @@ Name: Łukasz Kraiński
 
 Email: lkrain@sgh.waw.pl
 
+Consultations: 08:00 - 9:40 G-116 Thursdays
+
 ---
 **Lecturers**
 
@@ -64,7 +66,7 @@ Email: lkrain@sgh.waw.pl
 |     2023-03-06   |     Methods of evaluation of classifiers                                         |
 |     2023-03-13   |     Regularizationin machine learning                                                |
 |     2023-03-20    |     Nonparametric models                                                         |
-|     2023-03-27   |     Generative models(Ł. Kraiński)                             |
+|     2023-03-27   |     Generative models (Ł. Kraiński)                             |
 |     2023-04-03   |     Introduction to Julia language                                                    |
 |     2023-04-17    |     Dimensionality reduction methods   |
 |     2023-04-24   |     Working with text data                                                         |
