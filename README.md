@@ -103,6 +103,8 @@ Gareth  J.,  Witten  D.,  Hastie  T.,  Tibshirani  R.  (2021),  [An  Introductio
 
 Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
+William E. Shotts (2019), [Linux Command Line](https://linuxcommand.org/lc3_learning_the_shell.php)
+
 ---
 **Course evaluation criteria**
 
