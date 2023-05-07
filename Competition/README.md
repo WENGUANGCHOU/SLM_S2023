@@ -15,3 +15,21 @@ In the e-mail please specify name of the group and members. Required attachments
 Table with ranking will appear in this README file. Best team in each course group will receive 5 points, next 4 points, etc.
 
 Good luck!
+
+### Competition results
+
+Group 11
+| **Team**     | **Accuracy** | **Points** | **Language** | **Model**                  |
+|----------------|--------------|------------|-----------|----------------------------|
+| Omega        | 86,76        | 5          | Python    | Random Forest                    |
+| Booster Team            | 86,62         | 4          | R    | XGBoost                    |
+| Lion           | 59,94       | 3          | R    | Random Forest |
+
+Group 13
+| **Team**     | **Accuracy** | **Points** | **Language** | **Model**                  |
+|----------------|--------------|------------|-----------|----------------------------|
+| Pikachu        | 87,00        | 5          | Python    | LightGBM                   |
+| KMK            | 86,80         | 4          | Python    | Random Forest                   |
+| Turko           | 84,10      | 3          | Python    | Logistic Regression |
+| Drunk Peekachu           | 83,86       | 2          | Python    | Logistic Regression |
+| SP           | 71,68      | 1          | R    | Logistic Regression |
